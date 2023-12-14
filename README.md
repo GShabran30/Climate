@@ -1,6 +1,6 @@
-# Climate
+# Climate 🌞
 
-A Simple Weather App
+A Simple Weather App ☁
 
 Features
 1. Minimalistic Interface: Enjoy a clean and easy-to-use design that focuses on delivering key weather information without unnecessary clutter.
