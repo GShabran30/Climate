@@ -1,16 +1,11 @@
-# climate
+# Climate
 
-A new Flutter project.
+A Simple Weather App
 
-## Getting Started
+Features
+1. Minimalistic Interface: Enjoy a clean and easy-to-use design that focuses on delivering key weather information without unnecessary clutter.
+2. Current Weather: Get real-time updates on the current weather conditions, including temperature, humidity, wind speed, and more.
+3. Location-based Forecast: The app automatically detects your location to provide accurate and relevant weather forecasts.
+4. No Account Required: Start using the app right away without the need for any sign-ups or logins. It's hassle-free and designed for quick access.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
